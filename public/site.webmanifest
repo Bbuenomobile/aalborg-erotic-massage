@@ -1,0 +1,16 @@
+{
+    "name": "Aalborg Erotic massage",
+    "short_name": "Aalborg Erotic Massage \ud83c\udf0d",
+    "description": "Explore the erotic massage scene in Aalborg, Denmark. Our directory lists 0 verified venues right now. Practical advice for visitors on finding discreet options in this northern city.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#e91e63",
+    "icons": [
+        {
+            "src": "/favicon.svg",
+            "sizes": "any",
+            "type": "image/svg+xml"
+        }
+    ]
+}

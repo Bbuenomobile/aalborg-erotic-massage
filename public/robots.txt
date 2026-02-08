@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aalborg-erotic-massage.netlify.app/sitemap.xml
